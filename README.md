@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
 <h3 align="center">A passionate data engineer from Pakistan</h3>
 
+<!-- Add your image here -->
+<p align="center">
+  <img src="https://github.com/aqsafatima001/aqsafatima001/raw/main/Aqsa%20Fatima%20github%20banner.png" alt="Aqsa Fatima" width="100%" />
+</p>
+
 - 📫 How to reach me **aqsafatima0202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
