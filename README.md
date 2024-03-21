@@ -12,14 +12,15 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p>Languages:Python, C/C++, SQL(MS-SQL,MySQL),JavaScript, HTML,JSON,CSS,Vue.js, Golang
- Frameworks: ASP.NET,Vue.js, Bootstrap
- Libraries : Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, NumPy, Matplotlib, Pandas
- Operating Systems: Linux(CentOSUbuntu),Windows
- DatabaseManagementSystems(DBMS):MySQL,Oracle,MSSQLServer
- Cloud: AWS,AzureCloud
- Big DataTools: Hadoop,Hive,Spark,Pig, Hbase, Kafka</p>
+<h3 align="left">Techincal Skills:</h3>
+  <ul>
+    <li><strong>Languages:</strong> Python, C/C++, SQL (MS-SQL, MySQL), JavaScript, HTML, JSON, CSS, Vue.js, Golang</li>
+    <li><strong>Frameworks:</strong> ASP.NET, Vue.js, Bootstrap</li>
+    <li><strong>Operating Systems:</strong> Linux (CentOS, Ubuntu), Windows</li>
+    <li><strong>Database Management Systems (DBMS):</strong> MySQL, Oracle, MSSQLServer</li>
+    <li><strong>Cloud:</strong> AWS, Azure Cloud</li>
+    <li><strong>Big Data Tools:</strong> Hadoop, Hive, Spark, Pig, Hbase, Kafka</li>
+  </ul>
 
 
 <h3 align="left">Connect with me:</h3>
