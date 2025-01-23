@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
-<h3 align="center">A passionate data engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <!-- Add your image here -->
 <p align="center">
   <img src="https://github.com/aqsafatima001/aqsafatima001/raw/main/Aqsa%20Fatima%20github%20banner.png" alt="Aqsa Fatima" width="100%" />
 </p>
 
-<p> I am a final-year computer science student at the Pakistan Institute of Engineering and Applied Sciences (PIEAS) and a data engineer with a strong foundation in Python, R, C, C++, JavaScript, and Go. Proficient in crafting responsive interfaces and dynamic web applications. Enthusiastic about data science and adept at extracting insights from diverse datasets. Specialized in big data technologies, including Hadoop, MapReduce, Hive, and Spark.</p>
+<p>Hi there! I'm 𝗔𝗾𝘀𝗮, a 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 at Chakor, I am specialize in using the low-code platform 𝐁𝐮𝐛𝐛𝐥𝐞.𝐢𝐨 to create dynamic, user-friendly web applications. My role involves designing, developing, and maintaining web solutions that meet clients' needs effectively and efficiently.</p>
 
 - 📫 How to reach me **aqsafatima0202@gmail.com**
 
