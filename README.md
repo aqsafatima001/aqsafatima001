@@ -3,7 +3,7 @@
 
 <!-- Add your image here -->
 <p align="center">
-  <img src="https://github.com/aqsafatima001/aqsafatima001/raw/main/Aqsa%20Fatima%20github%20banner.png" alt="Aqsa Fatima" width="100%" />
+  <img src="https://github.com/aqsafatima001/aqsafatima001/raw/main/Blue%20White%20Modern%20Online%20Business%20Webinar%20Banner%20Landscape%20(1).png" alt="Aqsa Fatima" width="100%" />
 </p>
 
 <p>Hi there! I'm 𝗔𝗾𝘀𝗮, a 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 at Chakor, I am specialize in using the low-code platform 𝐁𝐮𝐛𝐛𝐥𝐞.𝐢𝐨 to create dynamic, user-friendly web applications. My role involves designing, developing, and maintaining web solutions that meet clients' needs effectively and efficiently.</p>
